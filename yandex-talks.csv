@@ -1,0 +1,406 @@
+1  Как начать разработку под iOS?	http://events.yandex.ru/events/yamobcamp/msk-mar-2012/talks/2/
+2	Как начать разработку под WP7?	http://events.yandex.ru/events/yamobcamp/msk-mar-2012/talks/4/
+3	Опыт использования Core Data в Яндекс.Почте	http://events.yandex.ru/events/yamobcamp/msk-mar-2012/talks/5/
+4	Автосборки iOS-проектов в Яндексе	http://events.yandex.ru/events/yamobcamp/msk-mar-2012/talks/7/
+5	Автоматизация локализации iOS-приложений	http://events.yandex.ru/events/yamobcamp/msk-mar-2012/talks/8/
+6	Touch it: универсальные тач-события и слайдер	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/165/
+9	Поисковая технология «Спектр»	http://events.yandex.ru/events/yac/2011/talks/12/
+10	В поисках математики	http://events.yandex.ru/events/yac/2011/talks/16/
+11	Зачем обычному программисту знать языки, на которых почти никто не пишет	http://events.yandex.ru/events/yac/2011/talks/18/
+12	Юнит-тестирование и Google Mock	http://events.yandex.ru/events/yac/2011/talks/20/
+13	Сложнейшие техники, применяемые буткитами и полиморфными вирусами	http://events.yandex.ru/events/yac/2011/talks/25/
+14	Сканирование уязвимостей со вкусом Яндекса	http://events.yandex.ru/events/yac/2011/talks/24/
+15	Как создавалась архитектура Cloud9 IDE для масштабирования с помощью NodeJS 	http://events.yandex.ru/events/yac/2011/talks/31/
+16	Кросс-платформенная разработка под мобильные устройства	http://events.yandex.ru/events/yac/2011/talks/29/
+17	Разработка приложений для Android на С++	http://events.yandex.ru/events/yac/2011/talks/30/
+18	Мониторинг со всех сторон	http://events.yandex.ru/events/yac/2011/talks/35/
+19	Администрирование небольших сервисов, или Один за всех и 100 на одного 	http://events.yandex.ru/events/yac/2011/talks/36/
+20	Использование классификаторов для вычисления сходства в изображениях лиц 	http://events.yandex.ru/events/yac/2011/talks/15/
+21	Модели в профессиональной инженерии и тестировании программ	http://events.yandex.ru/events/yac/2011/talks/38/
+22	Как научить роботов тестировать веб-интерфейсы	http://events.yandex.ru/events/yac/2011/talks/39/
+23	За пределами HTML 5… 	http://events.yandex.ru/events/yac/2011/talks/34/
+24	C++11 (известный как C++0x) – новый стандарт языка С++ 	http://events.yandex.ru/events/yac/2011/talks/19/
+25	Контроль зверей: инструменты для управления и мониторинга распределенных систем от Cloudera	http://events.yandex.ru/events/yac/2011/talks/21/
+26	Масштабируемость Hadoop в Facebook	http://events.yandex.ru/events/yac/2011/talks/23/
+27	Истории про разработку сайтов	http://events.yandex.ru/events/yac/2011/talks/33/
+28	Дом из готовых кирпичей. Библиотека блоков, тюнинг, инструменты 	http://events.yandex.ru/events/yac/2011/talks/41/
+29	Тема для WordPress в БЭМ	http://events.yandex.ru/events/yac/2011/talks/40/
+30	BEMHTML. NOT yet another шаблонизатор	http://events.yandex.ru/events/yac/2011/talks/43/
+31	i-bem.js: JavaScript в БЭМ-терминах 	http://events.yandex.ru/events/yac/2011/talks/44/
+35	Базовые оптимизации	http://events.yandex.ru/events/yac/2010/talks/52/
+36	Sentiment strength detection for the social web: From YouTube arguments to Twitter praise	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/599/
+37	Making interval-based clustering rank-aware	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/600/
+39	Автоматический сбор данных по примерам	http://events.yandex.ru/events/yac/2010/talks/54/
+40	Обзор современных возможностей по распараллеливанию и векторизации приложений с использованием Parallels Composer	http://events.yandex.ru/events/yac/2010/talks/55/
+41	Веб-сервер Phantom	http://events.yandex.ru/events/yac/2010/talks/56/
+42	Масштабирование хранилищ и вычисления с Hadoop	http://events.yandex.ru/events/yac/2010/talks/58/
+43	Танки в Лунапарке: нагрузочное тестирование в Яндексе	http://events.yandex.ru/events/yac/2010/talks/59/
+44	Yet Another MapReduce	http://events.yandex.ru/events/yac/2010/talks/60/
+45	Автоматизированные техники тестирования интерфейсов на примере интерфейса JavaFX	http://events.yandex.ru/events/yac/2010/talks/61/
+47	Распределенные системы хранения данных, особенности реализации DHT в проекте Elliptics network	http://events.yandex.ru/events/yac/2010/talks/63/
+48	Построение системы видеокоммуникаций для большого числа пользователей в сети Интернет. Эффективное кодирование и передача real-time трафика. Сигнализация и техники firewall traversal	http://events.yandex.ru/events/yac/2010/talks/66/
+49	Система статистики и рейтингов LiveJournal.com	http://events.yandex.ru/events/yac/2010/talks/65/
+50	Распределенная система тестирования машинного перевода	http://events.yandex.ru/events/yac/2010/talks/64/
+51	От Статистики до Статистики. Эволюция архитектуры системы на примере системы расчета статистики Яндекса	http://events.yandex.ru/events/yac/2010/talks/67/
+72	О YaC 2010	http://events.yandex.ru/events/yac/2010/talks/46/
+73	А вы знаете длину ресниц своих клиентов?	http://events.yandex.ru/events/odessaconf/2011/talks/612/
+74	А что вы здесь делаете?	http://events.yandex.ru/events/odessaconf/2011/talks/613/
+75	Видео и интернет	http://events.yandex.ru/events/odessaconf/2011/talks/614/
+76	Интернет-маркетинга не существует	http://events.yandex.ru/events/odessaconf/2011/talks/615/
+77	Видео в интернете	http://events.yandex.ru/events/odessaconf/2011/talks/616/
+78	Видео хостинг YouTube	http://events.yandex.ru/events/odessaconf/2011/talks/617/
+79	Роль мобильных устройств и приложений	http://events.yandex.ru/events/odessaconf/2011/talks/618/
+81	Мобильные технологии Киевстар	http://events.yandex.ru/events/odessaconf/2011/talks/620/
+82	Мобильные технологии NFC	http://events.yandex.ru/events/odessaconf/2011/talks/621/
+83	Социально-демографические характеристики интернет пользователей	http://events.yandex.ru/events/odessaconf/2011/talks/622/
+84	Социальные медиа	http://events.yandex.ru/events/odessaconf/2011/talks/623/
+85	Исследования интернет рекламы	http://events.yandex.ru/events/odessaconf/2011/talks/624/
+86	Сегментируйте!	http://events.yandex.ru/events/odessaconf/2011/talks/625/
+87	Дискуссия на секции «Видео в интернете vs телевидение»	http://events.yandex.ru/events/odessaconf/2011/talks/626/
+88	Дискуссия на секции «Телефон как инструмент маркетинга и не только маркетинга»	http://events.yandex.ru/events/odessaconf/2011/talks/627/
+89	Дискуссия на секции «Офлайн уступает место онлайну: геосервисы вместо бумажных карт, соцсети вместо газет»	http://events.yandex.ru/events/odessaconf/2011/talks/628/
+90	Дискуссия на секции «Как измерить результаты маркетинга»	http://events.yandex.ru/events/odessaconf/2011/talks/629/
+91	Видео реклама в интернет	http://events.yandex.ru/events/odessaconf/2011/talks/630/
+92	Мобильный фокус: люди, трубки, сайты	http://events.yandex.ru/events/odessaconf/2012/talks/568/
+94	Операционные системы	http://events.yandex.ru/events/kit/1/talks/645/
+95	Архитектура ЭВМ	http://events.yandex.ru/events/kit/1/talks/646/
+96	Операционная система GNU/Linux: устройство и функционирование	http://events.yandex.ru/events/kit/1/talks/647/
+97	Системы хранения данных	http://events.yandex.ru/events/kit/1/talks/648/
+98	Файловые системы	http://events.yandex.ru/events/kit/1/talks/649/
+99	Сети и протоколы	http://events.yandex.ru/events/kit/1/talks/650/
+100	Сети и протоколы. Виртуализация	http://events.yandex.ru/events/kit/1/talks/651/
+101	Безопасность информационных систем	http://events.yandex.ru/events/kit/1/talks/652/
+102	Чем занимается системный администратор?	http://events.yandex.ru/events/kit/2/talks/589/
+103	Операционные системы	http://events.yandex.ru/events/kit/2/talks/590/
+104	Архитектура ЭВМ	http://events.yandex.ru/events/kit/2/talks/591/
+105	Популярный Linux	http://events.yandex.ru/events/kit/2/talks/592/
+106	Системы хранения данных	http://events.yandex.ru/events/kit/2/talks/593/
+107	Сети, протоколы и сетевое оборудование	http://events.yandex.ru/events/kit/2/talks/594/
+108	Файловые системы	http://events.yandex.ru/events/kit/2/talks/595/
+109	Информационная безопасность	http://events.yandex.ru/events/kit/2/talks/596/
+110	Виртуализация	http://events.yandex.ru/events/kit/2/talks/597/
+111	Основы MySQL	http://events.yandex.ru/events/kit/2/talks/598/
+112	Представляем API Яндекс.Карт 2.0	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/73/
+113	Координаты, слои и тайлы в API 2.0	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/74/
+114	Архитектура 2.0	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/75/
+115	Настройка карты: внешний вид и поведение	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/77/
+116	Как отобразить много точек на карте. Кластеризатор	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/78/
+117	Графика на карте в API 2.0	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/80/
+118	API 2.0 для touch-устройств	http://events.yandex.ru/events/yaapi/maps-apr-2012/talks/81/
+119	Масштабирование структурных предсказаний	http://events.yandex.ru/events/science-seminars/MIT-jan-2011/talks/586/
+120	Извлечение информации из социальных медиа	http://events.yandex.ru/events/science-seminars/MIT-jan-2011/talks/587/
+121	On Context-Dependent Bayesian Networks and Their Applications	http://events.yandex.ru/events/science-seminars/Ben-Gal-dec-2011/talks/588/
+122	Algorithms of On-line Search for Static or Moving Target	http://events.yandex.ru/events/science-seminars/Ben-Gal-dec-2011/talks/662/
+123	Evaluation Multi-Query Sessions	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/601/
+124	System Effectiveness, User Models and User Utility	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/602/
+125	Efficient Diversification of Web Search Results	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/603/
+126	Efficient Query Suggestions in the Long Tail	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/604/
+127	Beyond Query Suggestions: Recommending Tasks to SE Users	http://events.yandex.ru/events/science-seminars/russir-aug-2011/talks/605/
+128	Быстрый динамический анализ программ на примере поиска гонок (data races)	http://events.yandex.ru/events/science-seminars/dataraces-may-2011/talks/632/
+129	Adapting Rankers Online	http://events.yandex.ru/events/science-seminars/de-Rijke-jun-2011/talks/631/
+130	Про офис разработки Яндекса в Беларуси	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/91/
+131	"Peer-to-peer search that works"	http://events.yandex.ru/events/science-seminars/Hiemstra-apr-2011/talks/643/
+132	Методы классификации документов в поиске	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/92/
+134	Constructional syntactic analysis for information access tasks	http://events.yandex.ru/events/science-seminars/Karlgren-feb-2011/talks/653/
+135	Поиск для сайта: зачем он нужен, как с ним работать, как и зачем его улучшать	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/93/
+136	Правиловая система машинного перевода ЭТАП-3: опыт разработки и некоторые уроки	http://events.yandex.ru/events/science-seminars/Iomdin-jan-2011/talks/654/
+137	История создания БЭМ. Кратко, сбивчиво и неполно	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/95/
+138	Использование кастомных шрифтов	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/96/
+139	AJAX в поиске по вебу	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/97/
+140	Как мы делаем code review	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/99/
+141	JS API Яндекс.Карт 2.0: что нового и как это работает	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/100/
+142	Архитектура сервиса Яндекс.Диск. Замыслы и реальность	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/101/
+143	Hello WP7: начинаем разработку	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/103/
+144	Локализация приложений для iOS: как не прострелить себе ногу	http://events.yandex.ru/events/yasubbotnik/minsk-jun-2012/talks/104/
+145	Вступительное слово на Я.Субботнике в Киеве	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/107/
+146	Асессоры Яндекса: откуда взялись, зачем нужны, как работают	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/108/
+147	Дизайнер в поиске	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/109/
+148	API 2.0: Новые интерфейсы Яндекс.Карт – теперь и на украинском	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/110/
+149	Используем git без проблем	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/112/
+150	Зачем и как мы используем jsLint	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/113/
+151	Современный «станок» верстальщика	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/114/
+152	Настоящее и будущее разработки на Украине	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/116/
+153	Приложения для соцсетей. Универсальные приложения на БЭМ	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/117/
+154	bem server: система сборки фронтенда	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/118/
+155	i-bem.js: JavaScript в БЭМ-терминах	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/120/
+156	Используем БЭМ для создания сайтов под iOS/Android	http://events.yandex.ru/events/yasubbotnik/kiev-may-2012/talks/121/
+157	Дизайнер в поиске	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/166/
+158	Офлайн-поиск на основе MapReduce 	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/168/
+159	Python в инфраструктуре поиска	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/169/
+160	Несколько интересных фактов об экспертной оценке	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/170/
+161	Методы автоматического сбора данных	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/172/
+162	Подходы к кешированию на UGC-сервисе	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/173/
+163	Основные проблемы и грабли при разработке видеохостингов	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/174/
+164	Горизонтальное масштабирование MySQL	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/176/
+165	Хроники серверного Жаваскрипта 	http://events.yandex.ru/events/yasubbotnik/spb-dec-2011/talks/177/
+166	Автоматизация тестирования веб-форм	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/181/
+167	SVARX, или Борьба с большими формами	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/182/
+168	CSS3 фарш	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/184/
+169	Как использовать БЭМ! вне Яндекса	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/151/
+170	Веб для незрячих	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/185/
+171	Архитектура фронтенда Яндекс.Почты	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/200/
+172	Приручая сайты	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/188/
+173	Yandex Map Kit для iOS в примерах	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/189/
+174	Разработка Яндекс.Карт для Windows Phone 7	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/190/
+175	Земля в коробочке: хранят и показывают Яндекс.Карты	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/192/
+176	Как мы делаем Панорамы	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/193/
+177	Яндекс в Казахстане 	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/196/
+178	Качество поиска: экспертные оценки и исследование пользовательского поведения	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/197/
+179	Веб-виджеты Яндекса и с чем их едят	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/198/
+180	Куда движется верстка и верстальщики Яндекса	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/201/
+181	Touch it: новое мобильное направление веб-разработки	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/202/
+182	От Ванкувера до Азиады: как мы делаем спортивные проекты	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/204/
+183	Зачем и когда мы проводим нагрузочное тестирование	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/205/
+184	Лунапарк: теория и практика	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/206/
+185	Основные проблемы и грабли в разработке видеохостингов	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/208/
+186	Yandex MapKit для Android OS в примерах	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/209/
+187	Как мы делаем панорамы улиц	http://events.yandex.ru/events/yasubbotnik/almati-oct-2011/talks/210/
+188	Как мы оцениваем качество поиска	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/213/
+189	Что такое хорошие сниппеты?	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/214/
+190	Как работают хорошие сниппеты	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/215/
+191	Про БЭМ, или Как разрабатывать веб-проекты	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/217/
+192	Куда идём мы с Пятачком, или О том, куда движется вёрстка и верстальщики Яндекса	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/218/
+193	Масштабируемые JavaScript-приложения	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/219/
+194	HTML5 в Я.Почте	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/220/
+195	Нагрузки в спорте высоких достижений	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/222/
+196	Как Python стал делать погоду в Яндексе	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/223/
+197	Python в инфраструктуре поиска	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/224/
+198	Кластеризация дубликатов в Яндекс.Картинках	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/226/
+199	Офлайн-поиск на основе MapReduce	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/227/
+200	Роботы и люди в Twitter-е	http://events.yandex.ru/events/yasubbotnik/ekb-jun-2011/talks/228/
+201	Операция CSS3	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/231/
+202	Скорость рендеринга страниц: исследования, замеры, автоматизация	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/232/
+203	SVARX: фреймворк для семантической валидации форм	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/234/
+204	Внедрение идей БЭМ на не-Яндекс проект	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/235/
+205	Privoxy – арсенал супергероя?!	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/236/
+206	Верстка кастомными тегами для API Яндекс.Карт	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/238/
+207	HTML5 в Я.Почте (WebSocket, localStorage, Cross-site XHR) 	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/239/
+208	Верстка для touch-устройст (webkit) 	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/240/
+209	Что такое дизайнерская компания	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/242/
+210	Мобильные тренды (на основе приложений iOS)	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/243/
+211	CSS3 в руках дизайнера	http://events.yandex.ru/events/yasubbotnik/kiev-may-2011/talks/244/
+212	Оценка черной магии	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/251/
+213	Поток вертикальных сервиcов	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/252/
+214	Оценка качества поиска	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/249/
+216	Баннерокрутилка: разбираем на куски	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/254/
+217	Автоматический сбор данных по примерам	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/255/
+218	Вступительное слово на Я.Субботнике в Челябинске	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/150/
+219	О чём ещё говорят верстальщики	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/152/
+220	Проблемы доставки iOS-приложений на тестовые устройства	http://events.yandex.ru/events/yamobcamp/spb-may-2012/talks/84/
+221	Автоматизация в XCode	http://events.yandex.ru/events/yamobcamp/spb-may-2012/talks/85/
+222	Яндекс.Почта: архитектура фронтенда как она есть	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/153/
+223	Как можно доработать UITableViewController, чтобы облегчить себе жизнь	http://events.yandex.ru/events/yamobcamp/spb-may-2012/talks/86/
+224	Масштабируемые JavaScript-приложения	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/154/
+225	Homo Universale: куда расти веб-дизайнерам	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/156/
+226	Как Big Data делает вашу жизнь лучше	http://events.yandex.ru/events/odessaconf/2012/talks/569/
+227	Изменение демографии внутри воронки продаж	http://events.yandex.ru/events/odessaconf/2012/talks/570/
+228	Роль мобильных приложений в экосистеме сервиса Evernote	http://events.yandex.ru/events/odessaconf/2012/talks/571/
+229	О чем молчат цифры, или немного об отчётности	http://events.yandex.ru/events/odessaconf/2012/talks/572/
+231	Эволюция системы управления	http://events.yandex.ru/events/planb/spb-dec-2011/talks/258/
+232	Framework для планирования проекта с точки зрения менеджера продукта	http://events.yandex.ru/events/planb/spb-dec-2011/talks/259/
+233	Полет на Марс, или как не обидеть слона	http://events.yandex.ru/events/planb/spb-dec-2011/talks/260/
+234	Планирование аналитической части проекта	http://events.yandex.ru/events/planb/spb-dec-2011/talks/261/
+235	Как создаются интерфейсы в Mail.Ru	http://events.yandex.ru/events/planb/spb-dec-2011/talks/262/
+236	Интегральный подход в дизайне	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/157/
+237	Спортивные проекты Яндекса. Взгляд изнутри	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/158/
+238	Кластеризация дубликатов в Яндекс.Картинках	http://events.yandex.ru/events/yasubbotnik/chlb-feb-2012/talks/159/
+239	Что такое социальный интранет	http://events.yandex.ru/events/odessaconf/2012/talks/573/
+240	Глобальная платформа электронной коммерции siteheart.com	http://events.yandex.ru/events/odessaconf/2012/talks/574/
+241	Архитектура фронтенда Яндекс.Почты	http://events.yandex.ru/events/yasubbotnik/nsk-nov-2011/talks/186/
+242	Поиск багов в поиске	http://events.yandex.ru/events/yasubbotnik/spb-feb-2011/talks/248/
+243	Изменение процессов планирования в растущей команде тестирования 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/265/
+244	Трудности планирования в удаленных и географически распределенных командах	http://events.yandex.ru/events/planb/spb-dec-2011/talks/266/
+245	Как сделать команде приятное	http://events.yandex.ru/events/planb/spb-dec-2011/talks/267/
+246	Серфинг в неспокойных водах: планирование IT-проектов методом набегающей волны 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/268/
+247	Как не потеряться в часовых поясах (планирование и распределенная команда)	http://events.yandex.ru/events/planb/spb-dec-2011/talks/269/
+248	Как спланировать дизайнера 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/270/
+249	Интерактив «Сто_восемь»	http://events.yandex.ru/events/planb/spb-dec-2011/talks/272/
+250	Чего хотят тестировщики? Или как после планирования жить хорошо 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/275/
+251	Как я организовал музыкальный фестиваль и при этом не потерял друзей 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/276/
+252	Заметки о планировании со стороны разработчиков 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/277/
+253	Планирование дизайнеров. Как успеть?	http://events.yandex.ru/events/planb/spb-dec-2011/talks/278/
+254	Специфика раннего планирования на проекте 	http://events.yandex.ru/events/planb/spb-dec-2011/talks/279/
+255	Распределенный анализ в LHCb	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/286/
+256	Поиск новой физики с помощью LHCb	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/285/
+257	Система сбора данных на скорости 32 Тбит/с	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/281/
+258	Обработка данных событий в LHCb (Large Hadron Collider beauty experiment)	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/282/
+259	Инфраструктура MapReduce	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/287/
+260	Знакомство с MatrixNet	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/288/
+261	Описание совместных проектов СERN и Яндекс 	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/289/
+262	Особенности создания репрезентативных опросов в интернете	http://events.yandex.ru/events/odessaconf/2012/talks/575/
+263	Введение в эксперимент LHCb	http://events.yandex.ru/events/science-seminars/cern-jul-2012/talks/290/
+265	Наши «яблоки Ньютона», или реальные инсайты из жизни Яндекс.Events	http://events.yandex.ru/events/odessaconf/2012/talks/576/
+266	Маркетинг мобильных приложений	http://events.yandex.ru/events/odessaconf/2012/talks/577/
+267	Коллективный поиск, взаимодействие пользователей: подходы к изучению социальных аспектов информационного поиска	http://events.yandex.ru/events/science-seminars/russir-aug-2012/talks/292/
+268	Открываем Яндекс.Танк	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/296/
+269	Архитектура Яндекс.Фоток	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/298/
+270	Яндекс.Диск: архитектура, синхронизация и многое другое	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/313/
+271	Кластеризатор в JS API Яндекс.Карт	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/301/
+272	Разные способы создания клиентских js-компонентов	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/302/
+273	Прототипирование на живом проекте	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/304/
+274	MapKit для WP7 	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/305/
+276	Открытие конференции «Горизонты цифрового маркетинга»	http://events.yandex.ru/events/odessaconf/2012/talks/578/
+277	«Enterprise Social Technologies»	http://events.yandex.ru/events/odessaconf/2012/talks/579/
+278	Дискуссия на секции «Enterprise Social Technologies»	http://events.yandex.ru/events/odessaconf/2012/talks/580/
+279	«Мобильные технологии и геосервисы»	http://events.yandex.ru/events/odessaconf/2012/talks/581/
+280	Дискуссия на секции «Мобильные технологии и геосервисы»	http://events.yandex.ru/events/odessaconf/2012/talks/582/
+281	«Аналитика и роль данных в цифровом маркетинге»	http://events.yandex.ru/events/odessaconf/2012/talks/583/
+282	Дискуссия на секции «Аналитика и роль данных в цифровом маркетинге»	http://events.yandex.ru/events/odessaconf/2012/talks/584/
+283	Выступление Игоря Ашманова	http://events.yandex.ru/events/odessaconf/2012/talks/585/
+284	Проблемы эффективности поисковых систем: как сделать так, чтобы поисковая система давала ответ за одну десятую секунды или быстрее?	http://events.yandex.ru/events/science-seminars/russir-aug-2012/talks/310/
+285	Yandex MapKit: идеи по применению	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/311/
+286	Школа разработки интерфейсов	http://events.yandex.ru/events/yasubbotnik/msk-jul-2012/talks/314/
+287	Политическая поляризация в поисковых логах и Твиттере	http://events.yandex.ru/events/science-seminars/russir-16aug-2012/talks/317/
+288	Настоящее и будущее БЭМ	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/320/
+289	Новые возможности bem-tools для автоматической сборки проекта	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/321/
+290	БЭМ и JavaScript: Зачем мы написали JS-фреймворк?	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/323/
+291	БЭМ и JavaScript: Сборник рецептов	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/324/
+292	БЭМ и JavaScript: Тестирование	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/326/
+293	Миксы во вселенной БЭМ	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/327/
+294	Про шаблонизаторы вообще и BEMHTML в частности	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/329/
+295	Внедрение БЭМ в существующие системы	http://events.yandex.ru/events/yasubbotnik/msk-sep-2012/talks/330/
+296	Методы анализа поведения пользователей и его применение в веб-поиске и рекомендации контента	http://events.yandex.ru/events/science-seminars/Gionis-aug-2012/talks/333/
+297	Чего не хватает в PageObject?	http://events.yandex.ru/events/yac/2012/talks/366/
+298	Terra — событийная система мониторингов	http://events.yandex.ru/events/yac/2012/talks/360/
+299	CSS-препроцессоры: из каменного века — в будущее	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/429/
+300	The Architect Way	http://events.yandex.ru/events/yac/2012/talks/370/
+301	Инфраструктура облачных вычислений на основе ядра Illumos	http://events.yandex.ru/events/yac/2012/talks/351/
+302	Предсказание «узких мест» при выполнении команд в кластерах MapReduce	http://events.yandex.ru/events/science-seminars/Bortnikov-sept-2012/talks/340/
+303	Профилирование и ускорение сложных JavaScript-систем на примере API Яндекс.Карт	http://events.yandex.ru/events/yac/2012/talks/369/
+304	SDN — технология удобного управления компьютерной сетью	http://events.yandex.ru/events/yac/2012/talks/378/
+305	Progressive Enhancement: практичный подход к современной кроссбраузерной разработке	http://events.yandex.ru/events/yac/2012/talks/373/
+306	IdM-система корпоративного уровня. Опыт Яндекса	http://events.yandex.ru/events/yac/2012/talks/391/
+307	Будущее мобильных геоприложений	http://events.yandex.ru/events/yac/2012/talks/401/
+308	Что разработчикам интерфейсов нужно знать о дизайне	http://events.yandex.ru/events/yac/2012/talks/375/
+309	Простой способ поиска уникальных особенностей во временных рядах	http://events.yandex.ru/events/yac/2012/talks/383/
+310	Program Analysis and Testing using Efficient Satisfiability Modulo Theories Solving	http://events.yandex.ru/events/yac/2012/talks/361/
+311	Ваше собственное облако — война за независимость	http://events.yandex.ru/events/yac/2012/talks/355/
+312	Эффективная маршрутизация в вычислительном облаке	http://events.yandex.ru/events/yac/2012/talks/356/
+313	Как управлять облаками	http://events.yandex.ru/events/yac/2012/talks/357/
+314	Облачное распределенное хранилище данных для виртуальных машин (и не только)	http://events.yandex.ru/events/yac/2012/talks/354/
+315	Thucydides — приемочные тесты нового поколения на базе WebDriver	http://events.yandex.ru/events/yac/2012/talks/362/
+316	Новый взгляд на безопасность SSL-соединений в браузерах 	http://events.yandex.ru/events/yac/2012/talks/386/
+317	Raphaël: достижения, ошибки и планы	http://events.yandex.ru/events/yac/2012/talks/371/
+318	BYOD в организации: подводные и надводные камни внедрения	http://events.yandex.ru/events/yac/2012/talks/392/
+319	System Administration Automation in High Scale 	http://events.yandex.ru/events/yac/2012/talks/377/
+320	Мобильные и облачные технологии. Проблемы для безопасника или панацея от рисков?	http://events.yandex.ru/events/yac/2012/talks/393/
+321	Corona — новый способ Мапить и Редьюсить	http://events.yandex.ru/events/yac/2012/talks/384/
+323	Crawling of Rich Internet Applications и проект «Роботестер»	http://events.yandex.ru/events/yac/2012/talks/364/
+324	Choosing a fault-tolerant database to support cloud infrastructure 	http://events.yandex.ru/events/yac/2012/talks/350/
+325	Как запускали IPv6 в Яндексе	http://events.yandex.ru/events/yac/2012/talks/380/
+326	Как защитить миллионы паролей	http://events.yandex.ru/events/yac/2012/talks/390/
+327	Yet another malware story	http://events.yandex.ru/events/yac/2012/talks/387/
+328	Исследование ботнетов через DNS-трафик и не только	http://events.yandex.ru/events/yac/2012/talks/388/
+329	Отказоустойчивость и балансировка нагрузки - без регистрации и смс 	http://events.yandex.ru/events/yac/2012/talks/379/
+330	Core Text: раскрываем интерактивные возможности текста	http://events.yandex.ru/events/yac/2012/talks/403/
+331	Yandex and W3C	http://events.yandex.ru/events/yac/2012/talks/421/
+332	Making the Web searchable	http://events.yandex.ru/events/science-seminars/Mika-oct-2012/talks/425/
+333	Program Analysis and Testing using Efficient Satisfiability Modulo Theories Solvers	http://events.yandex.ru/events/science-seminars/Bjorner-oct-2012/talks/423/
+334	CRIU: больше, чем живая миграция для Linux контейнеров	http://events.yandex.ru/events/yac/2012/talks/352/
+335	Test 2.0	http://events.yandex.ru/events/yac/2012/talks/365/
+336	Тестирование безDOMных объектов современных веб-интерфейсов на примере API Яндекс.Карт	http://events.yandex.ru/events/yac/2012/talks/374/
+337	Математические модели, которые помогли Яндекс.Пробкам	http://events.yandex.ru/events/yac/2012/talks/382/
+338	Android Library Projects: практические советы по применению	http://events.yandex.ru/events/yac/2012/talks/395/
+339	Автоматизация сборки библиотек и приложений под Android	http://events.yandex.ru/events/yac/2012/talks/396/
+340	Yandex.Store: дистрибуция Android-приложений	http://events.yandex.ru/events/yac/2012/talks/397/
+341	Профилирование и анализ утечек памяти в Android приложениях	http://events.yandex.ru/events/yac/2012/talks/398/
+342	Автоматизация тестирования мобильных приложений — необходимость или прихоть	http://events.yandex.ru/events/yac/2012/talks/399/
+344	Core Animation: собираем интерактивные интерфейсы	http://events.yandex.ru/events/yac/2012/talks/402/
+345	Cоздание интерфейсов: от простой дополненной реальности до управляемых дистанционными жестами	http://events.yandex.ru/events/yac/2012/talks/405/
+346	Опыт разработки мобильных приложений в Applifto	http://events.yandex.ru/events/yac/2012/talks/406/
+347	Драматическая история одной маленькой промостраницы	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/428/
+348	Git — ветки, деревья, лес	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/431/
+349	Отказоустойчивость сервисов	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/432/
+350	Интранет и синхронизация	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/433/
+351	Автоматизированное тестирование безопасности конфигурации промышленных веб-серверов	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/435/
+352	Качество кода автотестов	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/436/
+353	Разработка на Node.js: инструменты, библиотеки, сервисы	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/437/
+354	Жизнь одного проекта: от идеи до воплощения	http://events.yandex.ru/events/yasubbotnik/spb-jun-2012/talks/439/
+355	Universal Payment Systems	http://events.yandex.ru/events/science-seminars/Mikali-nov-2012/talks/442/
+356	Профессии в мире информационных технологий	http://events.yandex.ru/events/kit/3/talks/520/
+357	Инструментарий системного инженера	http://events.yandex.ru/events/kit/3/talks/521/
+358	Архитектура операционной системы	http://events.yandex.ru/events/kit/3/talks/522/
+359	Current work on CSS at W3C	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/445/
+360	New developments in Semantic Web and Internationalization at the W3C	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/446/
+362	SVGO: оптимизатор SVG	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/453/
+363	Чётко и резко. Новая графика для экранов с высоким разрешением	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/454/
+364	Паттерны JavaScript	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/455/
+365	Grunt. Система сборки для фронтенд-разработчиков	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/456/
+366	Адаптивный веб-дизайн — Что? Где? Когда?	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/458/
+367	Getting touchy	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/459/
+368	Технолог — тоже дизайнер	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/460/
+369	Yandex and W3C	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/451/
+370	Безопасность информационных систем	http://events.yandex.ru/events/kit/3/talks/523/
+371	Организация хранения данных	http://events.yandex.ru/events/kit/3/talks/524/
+372	Анализ производительности и отладка приложений с помощью DTrace	http://events.yandex.ru/events/science-seminars/Torchinskiy-nov-2012/talks/465/
+373	Виртуализация в Linux	http://events.yandex.ru/events/kit/3/talks/525/
+374	Круглый стол с экспертами W3C, Яндекса и Opera Software 	http://events.yandex.ru/events/yagosti/wsd-msk-nov-2012/talks/462/
+375	Распределённая система near-realtime агрегации больших объёмов данных на основе cocaine	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/472/
+376	Elliptics в Яндексе	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/473/
+377	Архитектура загрузчика Яндекс.Диска	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/475/
+378	Яндекс.Работа: Работа не волк	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/476/
+379	Как мы заставили API Яндекс.Карт работать быстрее	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/477/
+380	Производительность клиентсайда через тестирование скорости отрисовки страниц	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/479/
+381	Чего не хватает в PageObject?	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/480/
+382	Ваше собственное облако — война за независимость	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/482/
+383	Эффективная маршрутизация в вычислительном облаке	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/483/
+384	Как управлять облаками	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/484/
+385	Распределённая система near-realtime агрегации больших объёмов данных на основе cocaine	http://events.yandex.ru/events/yasubbotnik/spb-dec-2012/talks/472/
+386	Общий цикл разработки	http://events.yandex.ru/events/shri/msk-2012/talks/528/
+387	Система ведения задач	http://events.yandex.ru/events/shri/msk-2012/talks/529/
+388	Wiki	http://events.yandex.ru/events/shri/msk-2012/talks/530/
+389	Командная строка Unix	http://events.yandex.ru/events/shri/msk-2012/talks/531/
+390	Браузеры	http://events.yandex.ru/events/shri/msk-2012/talks/532/
+391	Редакторы кода	http://events.yandex.ru/events/shri/msk-2012/talks/533/
+392	Системы контроля версий	http://events.yandex.ru/events/shri/msk-2012/talks/534/
+393	Тестирование	http://events.yandex.ru/events/shri/msk-2012/talks/535/
+394	Развёртывание вёрстки	http://events.yandex.ru/events/shri/msk-2012/talks/536/
+395	Математическая модель для прогнозирования пробок	http://events.yandex.ru/events/science-seminars/KHokhlov-dec-2012/talks/486/
+396	Компьютерные сети	http://events.yandex.ru/events/kit/3/talks/526/
+397	Компьютерные сети, продолжение	http://events.yandex.ru/events/kit/3/talks/527/
+398	HTTP-протокол	http://events.yandex.ru/events/shri/msk-2012/talks/537/
+399	Механизм работы браузера	http://events.yandex.ru/events/shri/msk-2012/talks/538/
+400	Кеширование на клиенте и на сервере	http://events.yandex.ru/events/shri/msk-2012/talks/539/
+401	Безопасность веб-приложений	http://events.yandex.ru/events/shri/msk-2012/talks/540/
+402	JavaScript фреймворки	http://events.yandex.ru/events/shri/msk-2012/talks/541/
+403	Языки программирования	http://events.yandex.ru/events/shri/msk-2012/talks/542/
+404	jQuery	http://events.yandex.ru/events/shri/msk-2012/talks/543/
+405	БЭМ: история появления, принципы методологии, базовые понятия	http://events.yandex.ru/events/shri/msk-2012/talks/544/
+406	БЭМ: практика	http://events.yandex.ru/events/shri/msk-2012/talks/545/
+407	Дизайн интерфейсов	http://events.yandex.ru/events/shri/msk-2012/talks/546/
+408	Дизайн глазами разработчика	http://events.yandex.ru/events/shri/msk-2012/talks/547/
+409	JavaScript: Базовые знания	http://events.yandex.ru/events/shri/msk-2012/talks/548/
+410	JavaScript: Асинхронность	http://events.yandex.ru/events/shri/msk-2012/talks/549/
+411	CSS: Систематизация базовых знаний	http://events.yandex.ru/events/shri/msk-2012/talks/550/
+412	Debugger: Отладка кода	http://events.yandex.ru/events/shri/msk-2012/talks/551/
+413	Profiler: Профилирование кода	http://events.yandex.ru/events/shri/msk-2012/talks/552/
+414	Шаблонизаторы	http://events.yandex.ru/events/shri/msk-2012/talks/553/
+415	Регулярные выражения	http://events.yandex.ru/events/shri/msk-2012/talks/554/
+416	XML	http://events.yandex.ru/events/shri/msk-2012/talks/555/
+417	XPath	http://events.yandex.ru/events/shri/msk-2012/talks/556/
+418	XSLT	http://events.yandex.ru/events/shri/msk-2012/talks/557/
+419	Транспорт, Ajax	http://events.yandex.ru/events/shri/msk-2012/talks/558/
+420	Предсказание популярности контента в социальных сетях	http://events.yandex.ru/events/science-seminars/kupavskiy-feb/talks/487/
+421	Парное программирование	http://events.yandex.ru/events/shri/msk-2012/talks/559/
+422	CSS: Селекторы, псевдоклассы. Специфичность и наследование	http://events.yandex.ru/events/shri/msk-2012/talks/560/
+423	CSS: Значения и единицы измерения. Шрифт. Свойства текста	http://events.yandex.ru/events/shri/msk-2012/talks/561/
+424	CSS: Основы модели визуального форматирования. margin, padding, border. Цвета и фон	http://events.yandex.ru/events/shri/msk-2012/talks/562/
+425	CSS: Свободное перемещение и позиционирование	http://events.yandex.ru/events/shri/msk-2012/talks/563/
+426	CSS: Списки и генерируемое содержимое. Layouts. At-rules	http://events.yandex.ru/events/shri/msk-2012/talks/564/
+427	CSS: Transition. Transfrom. Animation	http://events.yandex.ru/events/shri/msk-2012/talks/565/
+428	Code Style	http://events.yandex.ru/events/shri/msk-2012/talks/566/
+429	JavaScript: События	http://events.yandex.ru/events/shri/msk-2012/talks/567/
+430	CSS Framework своими руками: теория	http://events.yandex.ru/events/yasubbotnik/msk-jan-2009/talks/496/
+433	CSS Framework своими руками: практика	http://events.yandex.ru/events/yasubbotnik/msk-jan-2009/talks/498/
+434	С ножом против паровоза. Оптимизация и нарезка графики для профессиональной вёрстки	http://events.yandex.ru/events/yasubbotnik/msk-jan-2009/talks/499/
+435	Вёрстка для мобильных устройств.	http://events.yandex.ru/events/yasubbotnik/msk-jan-2009/talks/501/
+436	Выкладка вёрстки — просто, быстро, безопасно.	http://events.yandex.ru/events/yasubbotnik/msk-jan-2009/talks/502/
+441	Неурядицы при создании сложных проектов/сервисов	http://events.yandex.ru/events/planb/spb-feb-2013/talks/506/
+442	Ошибки в стартапах	http://events.yandex.ru/events/planb/spb-feb-2013/talks/507/
+443	Рычаг на себя. Ошибки выбора объекта управления	http://events.yandex.ru/events/planb/spb-feb-2013/talks/508/
+444	Как умирают проекты	http://events.yandex.ru/events/planb/spb-feb-2013/talks/510/
+445	Путевые заметки начинающих Scrum-команд о тупиках	http://events.yandex.ru/events/planb/spb-feb-2013/talks/511/
+447	Зачем нужны факапы?	http://events.yandex.ru/events/planb/spb-feb-2013/talks/519/
+448	Ток-шоу про факапы	http://events.yandex.ru/events/planb/spb-feb-2013/talks/514/
+449	Рамблер	http://events.yandex.ru/events/planb/spb-feb-2013/talks/516/
+450	10 способов "налажать" во фрилансе	http://events.yandex.ru/events/planb/spb-feb-2013/talks/517/
